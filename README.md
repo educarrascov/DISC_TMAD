@@ -9,10 +9,11 @@ Ayudante: Diego Morales.
 **Eduardo Carrasco Vidal**
  
 ![Python](https://img.shields.io/badge/python-%2314354C.svg)![GitHub](https://img.shields.io/badge/github-%23121011.svg)
-__
+
 ## I. Notebook Utilizados en Clases:
 1. [Elementos Básicos (Clase 1).](https://github.com/educarrascov/DISC_TMAD/blob/main/Clases/Cap%C3%ADtulo%201%20-%20Elementos%20b%C3%A1sicos%20(1).ipynb)
 2. [Control de Flujo (Clase 2).](https://github.com/educarrascov/DISC_TMAD/blob/main/Clases/Cap%C3%ADtulo%202%20-%20Control%20de%20Flujo.ipynb)
-__
+
+
 ## II. Desarrollo de Tareas:
  
