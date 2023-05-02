@@ -1,0 +1,17 @@
+### Actividad 1:
+#######
+# Cree una función llamada getInfo que reciba dos parámetros, un argumento es el nombre de
+# un archivo csv, y el segundo argumento el nombre de una columna. La función leerá el
+# archivo (asuma que el nombre siempre es correcto), y devolverá una lista con toda la
+# información de la columna solicitada. En caso que el nombre de la columna no exista se
+# devolverá una lista vacía.
+##########
+
+import pandas as pd
+
+def getInfo (archivo, columna):
+  df = pd.read_csv(archivo)
+  datos_columna = df[columna].describe()
+
+  return datos_columna
+
